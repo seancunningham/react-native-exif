@@ -1,5 +1,5 @@
 # React Native Exif 
-An image exif reader
+An image exif reader updated on iOS for use with the Photo Framework - instead of AssetsLibrary
 
 ## Installation
 ```sh
